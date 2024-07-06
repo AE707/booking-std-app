@@ -38,9 +38,13 @@ A Flutter-based reservation app for managing bookings, customers, and services. 
 **📱 Fully Responsive**
 
 **:frowning_man: User registration and login**
+
 **:dart: View and manage reservations**
+
 **:technologist: Search and filter reservations**
+
 **:hourglass_flowing_sand:	Add, edit, and delete reservations**
+
 **:computer: User-friendly interface**
 
 
@@ -81,8 +85,9 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-## Contact
 
-Your Name - @your_twitter - your_email@example.com
+<br />
+Feel free to contribute to this repo.
 
-Project Link: https://github.com/AE707/reservation-app
+### Show some ❤️&nbsp; by giving the star :star: to this repository!!
+<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
