@@ -1,17 +1,7 @@
 # Booking Stadium
 
-# Reservation App
-
 A Flutter-based reservation app for managing bookings, customers, and services. This project aims to provide an easy-to-use interface for users to make reservations and for administrators to manage them effectively.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
