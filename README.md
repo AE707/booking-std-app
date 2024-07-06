@@ -26,16 +26,25 @@ A Flutter-based reservation app for managing bookings, customers, and services. 
         </tr>
     </tbody>
 </table>
+
+<br/>
+                
 ## Features
 
-- User registration and login
-- View and manage reservations
-- Search and filter reservations
-- Add, edit, and delete reservations
-- User-friendly interface
-- Responsive design
+**📖 Multi-Page Layout**
 
-## Installation
+**🎨 Styled with CSS with easy to customize colors**
+
+**📱 Fully Responsive**
+
+**:frowning_man: User registration and login**
+**:dart: View and manage reservations**
+**:technologist: Search and filter reservations**
+**:hourglass_flowing_sand:	Add, edit, and delete reservations**
+**:computer: User-friendly interface**
+
+
+## :hammer_and_wrench:	Installation
 
 To get a local copy up and running, follow these simple steps:
 
